@@ -1,0 +1,9 @@
+{
+	"name"         : "bunny-dns",
+	"version"      : "0.0.0",
+	"type"         : "module",
+	"main"         : "lib/index.js",
+	"dependencies" : {
+		"got": "^12.5.3"
+	}
+}

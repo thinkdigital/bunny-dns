@@ -1,3 +1,7 @@
+### 0.0.3
+
+- fixes update record to pass record Id
+
 ### 0.0.2
 
 - converts type in zone() and zones() records

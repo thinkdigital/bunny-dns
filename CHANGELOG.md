@@ -1,3 +1,7 @@
+### 0.0.4
+
+- adds disabled option to zone records
+
 ### 0.0.3
 
 - fixes update record to pass record Id

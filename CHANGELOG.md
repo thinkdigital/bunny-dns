@@ -1,3 +1,7 @@
+### 0.0.5
+
+- adds zone_statistics(zone_id)
+
 ### 0.0.4
 
 - adds disabled option to zone records
